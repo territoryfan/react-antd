@@ -1,4 +1,4 @@
-基于react + redux + less + ES6/7 + webpack + react-router + antd
+##基于react + redux + less + ES6/7 + webpack + react-router + antd
 
 1 npm install or yarn
 
